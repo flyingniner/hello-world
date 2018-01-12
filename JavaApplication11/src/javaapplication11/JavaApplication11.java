@@ -18,6 +18,7 @@ public class JavaApplication11
     public static void main(String[] args)
     {
         System.out.println("Hello world");// TODO code application logic here
+        String name = "jan";
     }
     
 }
